@@ -1,8 +1,25 @@
 <html>
-	<head>
-		<title>OverTheWire Status</title>
-	</head>
-	<body>
-		Nothing here yet.
-	</body>
+
+<head>
+	<title>OverTheWire Status</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+</head>
+
+<body>
+	<div id="app">
+		<div v-for="gamename in games" :key="gamename" class="game" id="game-{{gamename}}">
+			<h1 class="name">{{gamename}}</h1>
+			<ul>
+				<li v-for="level in gamedata[gamename]" :key="level.name" class="level" :class="level.status"
+					:title="'Status: '+level.status+', Last checked: ' + new Date(1000 * level.timestamp)">
+					{{level.name}}
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<script src="app.js"></script>
+</body>
+
 </html>

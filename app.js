@@ -1,0 +1,40 @@
+var checkInterval = 60 * 1000; // 1 minute
+var reloadInterval = 24 * 3600 * 1000; // 1 day
+
+
+var loadData = function (app) {
+	fetch("/games.json").then(
+		function (response) {
+			response.json().then(function (data) {
+				app.games = data;
+
+				data.forEach(gamename => {
+					fetch("/data/game-" + gamename + ".json").then(
+						function (response) {
+							response.json().then(function (gamedataobj) {
+								// this makes sure data reactivity is triggered...
+								Vue.set(app.gamedata, gamename, gamedataobj);
+							});
+						});
+				});
+			});
+		}
+	);
+}
+
+var app = new Vue({
+	el: "#app",
+	data: {
+		games: [],
+		gamedata: {},
+	},
+	created: function () {
+		var app = this;
+
+		// start interval timers to reload data and page
+		setInterval(function () { loadData(app); }, checkInterval);
+		setInterval(document.location.reload, reloadInterval);
+
+		loadData(app);
+	}
+});

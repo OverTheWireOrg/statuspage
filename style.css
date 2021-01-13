@@ -1,0 +1,49 @@
+
+.game {
+    width: 150px;
+    float: left;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #eeeeee;
+}
+
+.game .name {
+    font-size: 200%;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    padding: 0;
+}
+
+.level:before { display: inline-block; width: 30px; padding-left: 3px; font-size: 150%;}
+.level {
+    padding: 1px; /* inside border */
+    margin: 1px; /* outside border */
+    list-style: none;
+}
+
+.level.up:before { content: "\2713"; }
+.level.up {
+    background-color: #88ff88;
+    color: green;
+    border: 1px solid green;
+}
+
+.level.down:before { content:  "\00d7";}
+.level.down {
+    background-color: #ff8888;
+    color: red;
+    border: 1px solid red;
+}
+
+.level.unknown:before { content:  "?";}
+.level.unknown {
+    background-color: #ffffcc;
+    color: orange;
+    border: 1px solid orange;
+}
