@@ -7,9 +7,10 @@ var loadData = function (app) {
 		function (response) {
 			response.json().then(function (data) {
 				app.games = data;
+				var tsi = Math.floor((new Date()).getTime()/(1000*10));
 
 				data.forEach(gamename => {
-					fetch("/data/game-" + gamename + ".json").then(
+					fetch("/data/game-" + gamename + ".json?" + tsi).then(
 						function (response) {
 							response.json().then(function (gamedataobj) {
 								// this makes sure data reactivity is triggered...
