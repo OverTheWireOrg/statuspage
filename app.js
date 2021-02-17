@@ -29,6 +29,14 @@ var app = new Vue({
 		games: [],
 		gamedata: {},
 	},
+	methods: {
+		makeArrow(str) {
+			if(str == undefined) { return str; }
+			var textArea = document.createElement('textarea');
+			textArea.innerHTML = str.replace(">", "&rarr;");
+			return textArea.value;
+		}
+	},
 	created: function () {
 		var app = this;
 
