@@ -33,7 +33,7 @@ var app = new Vue({
 		makeArrow(str) {
 			if(str == undefined) { return str; }
 			var textArea = document.createElement('textarea');
-			textArea.innerHTML = str.replace(">", "&rarr;");
+			textArea.innerHTML = str.replace(">", "&rarr;").replace(" ", "&nbsp;");
 			return textArea.value;
 		}
 	},
