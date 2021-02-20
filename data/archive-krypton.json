@@ -2,6 +2,12 @@
     {
         "data": [
             {
+                "elapsed": 2.277,
+                "longname": "krypton1",
+                "status": "up",
+                "timestamp": 1613818948.5061269
+            },
+            {
                 "elapsed": 2.286,
                 "longname": "krypton1",
                 "status": "up",
@@ -594,18 +600,18 @@
                 "longname": "krypton1",
                 "status": "up",
                 "timestamp": 1613729822.7078888
-            },
-            {
-                "elapsed": 2.297,
-                "longname": "krypton1",
-                "status": "up",
-                "timestamp": 1613728928.7307098
             }
         ],
         "name": "krypton1"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "krypton1 > 2",
+                "status": "unknown",
+                "timestamp": 1613818948.5061991
+            },
             {
                 "elapsed": 0.001,
                 "longname": "krypton1 > 2",
@@ -1199,18 +1205,18 @@
                 "longname": "krypton1 > 2",
                 "status": "unknown",
                 "timestamp": 1613729822.7079616
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "krypton1 > 2",
-                "status": "unknown",
-                "timestamp": 1613728928.730783
             }
         ],
         "name": "krypton2"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "krypton2 > 3",
+                "status": "unknown",
+                "timestamp": 1613818948.506232
+            },
             {
                 "elapsed": 0.001,
                 "longname": "krypton2 > 3",
@@ -1804,18 +1810,18 @@
                 "longname": "krypton2 > 3",
                 "status": "unknown",
                 "timestamp": 1613729822.707995
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "krypton2 > 3",
-                "status": "unknown",
-                "timestamp": 1613728928.7308164
             }
         ],
         "name": "krypton3"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "krypton3 > 4",
+                "status": "unknown",
+                "timestamp": 1613818948.506261
+            },
             {
                 "elapsed": 0.001,
                 "longname": "krypton3 > 4",
@@ -2409,18 +2415,18 @@
                 "longname": "krypton3 > 4",
                 "status": "unknown",
                 "timestamp": 1613729822.7080233
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "krypton3 > 4",
-                "status": "unknown",
-                "timestamp": 1613728928.7308452
             }
         ],
         "name": "krypton4"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "krypton4 > 5",
+                "status": "unknown",
+                "timestamp": 1613818948.506288
+            },
             {
                 "elapsed": 0.001,
                 "longname": "krypton4 > 5",
@@ -3014,18 +3020,18 @@
                 "longname": "krypton4 > 5",
                 "status": "unknown",
                 "timestamp": 1613729822.7080512
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "krypton4 > 5",
-                "status": "unknown",
-                "timestamp": 1613728928.730872
             }
         ],
         "name": "krypton5"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "krypton5 > 6",
+                "status": "unknown",
+                "timestamp": 1613818948.5063145
+            },
             {
                 "elapsed": 0.001,
                 "longname": "krypton5 > 6",
@@ -3619,18 +3625,18 @@
                 "longname": "krypton5 > 6",
                 "status": "unknown",
                 "timestamp": 1613729822.7080784
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "krypton5 > 6",
-                "status": "unknown",
-                "timestamp": 1613728928.730898
             }
         ],
         "name": "krypton6"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "krypton6 > 7",
+                "status": "unknown",
+                "timestamp": 1613818948.5063398
+            },
             {
                 "elapsed": 0.001,
                 "longname": "krypton6 > 7",
@@ -4224,12 +4230,6 @@
                 "longname": "krypton6 > 7",
                 "status": "unknown",
                 "timestamp": 1613729822.7081048
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "krypton6 > 7",
-                "status": "unknown",
-                "timestamp": 1613728928.7309234
             }
         ],
         "name": "krypton7"
