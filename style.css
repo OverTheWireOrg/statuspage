@@ -47,3 +47,17 @@ ul {
     color: orange;
     border: 1px solid orange;
 }
+
+.blinking {
+    animation: blinker 1s linear infinite;
+    color: #eeeeee;
+    background-color: red;
+    border-radius: 5px;
+    font-weight: bold;
+}
+  
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
