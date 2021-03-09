@@ -1,4 +1,4 @@
-var checkInterval = 1 * 1000; // 1 minute
+var checkInterval = 60 * 1000; // 1 minute
 var reloadInterval = 24 * 3600 * 1000; // 1 day
 var expireTime = 20 * 60 * 1000; // 20 minutes
 
