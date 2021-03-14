@@ -1,72 +1,72 @@
 [
     {
-        "elapsed": 2.401,
+        "elapsed": 2.342,
         "longname": "maze0",
         "name": "maze0",
         "status": "up",
-        "timestamp": 1615752192.0704591
+        "timestamp": 1615753115.4928672
     },
     {
-        "elapsed": 6.402,
+        "elapsed": 31.652,
         "longname": "maze0 > 1",
         "name": "maze1",
-        "status": "up",
-        "timestamp": 1615752192.0704958
+        "status": "down",
+        "timestamp": 1615753115.4929073
     },
     {
-        "elapsed": 0.994,
+        "elapsed": 0.997,
         "longname": "maze1 > 2",
         "name": "maze2",
         "status": "up",
-        "timestamp": 1615752192.070531
+        "timestamp": 1615753115.4929416
     },
     {
-        "elapsed": 1.227,
+        "elapsed": 1.402,
         "longname": "maze2 > 3",
         "name": "maze3",
         "status": "up",
-        "timestamp": 1615752192.0705652
+        "timestamp": 1615753115.4929748
     },
     {
-        "elapsed": 0.66,
+        "elapsed": 0.636,
         "longname": "maze3 > 4",
         "name": "maze4",
         "status": "up",
-        "timestamp": 1615752192.070599
+        "timestamp": 1615753115.4930081
     },
     {
-        "elapsed": 1.216,
+        "elapsed": 1.218,
         "longname": "maze4 > 5",
         "name": "maze5",
         "status": "up",
-        "timestamp": 1615752192.0706327
+        "timestamp": 1615753115.4930415
     },
     {
-        "elapsed": 0.696,
+        "elapsed": 0.686,
         "longname": "maze5 > 6",
         "name": "maze6",
         "status": "up",
-        "timestamp": 1615752192.0706666
+        "timestamp": 1615753115.4930744
     },
     {
         "elapsed": 0.001,
         "longname": "maze6 > 7",
         "name": "maze7",
         "status": "unknown",
-        "timestamp": 1615752192.070334
+        "timestamp": 1615753115.492755
     },
     {
         "elapsed": 0.001,
         "longname": "maze7 > 8",
         "name": "maze8",
         "status": "unknown",
-        "timestamp": 1615752192.0704212
+        "timestamp": 1615753115.49283
     },
     {
-        "elapsed": 2.754,
+        "elapsed": 2.751,
         "longname": "maze8 > 9",
         "name": "maze9",
         "status": "up",
-        "timestamp": 1615752192.0707
+        "timestamp": 1615753115.4931073
     }
 ]
