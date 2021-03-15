@@ -2,6 +2,12 @@
     {
         "data": [
             {
+                "elapsed": 2.333,
+                "longname": "maze0",
+                "status": "up",
+                "timestamp": 1615841324.20154
+            },
+            {
                 "elapsed": 2.345,
                 "longname": "maze0",
                 "status": "up",
@@ -594,18 +600,18 @@
                 "longname": "maze0",
                 "status": "up",
                 "timestamp": 1615752192.0704591
-            },
-            {
-                "elapsed": 2.32,
-                "longname": "maze0",
-                "status": "up",
-                "timestamp": 1615751290.319353
             }
         ],
         "name": "maze0"
     },
     {
         "data": [
+            {
+                "elapsed": 31.651,
+                "longname": "maze0 > 1",
+                "status": "down",
+                "timestamp": 1615841324.2015808
+            },
             {
                 "elapsed": 2.263,
                 "longname": "maze0 > 1",
@@ -1199,18 +1205,18 @@
                 "longname": "maze0 > 1",
                 "status": "up",
                 "timestamp": 1615752192.0704958
-            },
-            {
-                "elapsed": 7.501,
-                "longname": "maze0 > 1",
-                "status": "up",
-                "timestamp": 1615751290.31939
             }
         ],
         "name": "maze1"
     },
     {
         "data": [
+            {
+                "elapsed": 1.232,
+                "longname": "maze1 > 2",
+                "status": "up",
+                "timestamp": 1615841324.2016153
+            },
             {
                 "elapsed": 1.038,
                 "longname": "maze1 > 2",
@@ -1804,18 +1810,18 @@
                 "longname": "maze1 > 2",
                 "status": "up",
                 "timestamp": 1615752192.070531
-            },
-            {
-                "elapsed": 0.99,
-                "longname": "maze1 > 2",
-                "status": "up",
-                "timestamp": 1615751290.319425
             }
         ],
         "name": "maze2"
     },
     {
         "data": [
+            {
+                "elapsed": 1.239,
+                "longname": "maze2 > 3",
+                "status": "up",
+                "timestamp": 1615841324.201649
+            },
             {
                 "elapsed": 1.221,
                 "longname": "maze2 > 3",
@@ -2409,18 +2415,18 @@
                 "longname": "maze2 > 3",
                 "status": "up",
                 "timestamp": 1615752192.0705652
-            },
-            {
-                "elapsed": 1.238,
-                "longname": "maze2 > 3",
-                "status": "up",
-                "timestamp": 1615751290.319459
             }
         ],
         "name": "maze3"
     },
     {
         "data": [
+            {
+                "elapsed": 0.645,
+                "longname": "maze3 > 4",
+                "status": "up",
+                "timestamp": 1615841324.2016819
+            },
             {
                 "elapsed": 0.636,
                 "longname": "maze3 > 4",
@@ -3014,18 +3020,18 @@
                 "longname": "maze3 > 4",
                 "status": "up",
                 "timestamp": 1615752192.070599
-            },
-            {
-                "elapsed": 0.654,
-                "longname": "maze3 > 4",
-                "status": "up",
-                "timestamp": 1615751290.3194933
             }
         ],
         "name": "maze4"
     },
     {
         "data": [
+            {
+                "elapsed": 1.244,
+                "longname": "maze4 > 5",
+                "status": "up",
+                "timestamp": 1615841324.2017148
+            },
             {
                 "elapsed": 1.222,
                 "longname": "maze4 > 5",
@@ -3619,18 +3625,18 @@
                 "longname": "maze4 > 5",
                 "status": "up",
                 "timestamp": 1615752192.0706327
-            },
-            {
-                "elapsed": 1.233,
-                "longname": "maze4 > 5",
-                "status": "up",
-                "timestamp": 1615751290.3195274
             }
         ],
         "name": "maze5"
     },
     {
         "data": [
+            {
+                "elapsed": 0.694,
+                "longname": "maze5 > 6",
+                "status": "up",
+                "timestamp": 1615841324.2017474
+            },
             {
                 "elapsed": 0.691,
                 "longname": "maze5 > 6",
@@ -4224,18 +4230,18 @@
                 "longname": "maze5 > 6",
                 "status": "up",
                 "timestamp": 1615752192.0706666
-            },
-            {
-                "elapsed": 0.674,
-                "longname": "maze5 > 6",
-                "status": "up",
-                "timestamp": 1615751290.319561
             }
         ],
         "name": "maze6"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "maze6 > 7",
+                "status": "unknown",
+                "timestamp": 1615841324.2014208
+            },
             {
                 "elapsed": 0.001,
                 "longname": "maze6 > 7",
@@ -4829,18 +4835,18 @@
                 "longname": "maze6 > 7",
                 "status": "unknown",
                 "timestamp": 1615752192.070334
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "maze6 > 7",
-                "status": "unknown",
-                "timestamp": 1615751290.3192408
             }
         ],
         "name": "maze7"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "maze7 > 8",
+                "status": "unknown",
+                "timestamp": 1615841324.2015018
+            },
             {
                 "elapsed": 0.001,
                 "longname": "maze7 > 8",
@@ -5434,18 +5440,18 @@
                 "longname": "maze7 > 8",
                 "status": "unknown",
                 "timestamp": 1615752192.0704212
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "maze7 > 8",
-                "status": "unknown",
-                "timestamp": 1615751290.3193147
             }
         ],
         "name": "maze8"
     },
     {
         "data": [
+            {
+                "elapsed": 2.763,
+                "longname": "maze8 > 9",
+                "status": "up",
+                "timestamp": 1615841324.2017803
+            },
             {
                 "elapsed": 2.764,
                 "longname": "maze8 > 9",
@@ -6039,12 +6045,6 @@
                 "longname": "maze8 > 9",
                 "status": "up",
                 "timestamp": 1615752192.0707
-            },
-            {
-                "elapsed": 2.766,
-                "longname": "maze8 > 9",
-                "status": "up",
-                "timestamp": 1615751290.3195949
             }
         ],
         "name": "maze9"
