@@ -23,13 +23,13 @@ function drawDatapoint(ctx, x, y, w, value) {
     
     switch(value) {
         case "up":
-            ctx.fillStyle = 'green';
+            ctx.fillStyle = '#88ff88';
             break;
         case "down":
-            ctx.fillStyle = 'red';
+            ctx.fillStyle = '#ff8888';
             break;
         default:
-            ctx.fillStyle = 'yellow';
+            ctx.fillStyle = '#ffffcc';
             break;
     }
 
@@ -64,6 +64,12 @@ function drawEverything() {
             var gamestartline = line;
             var levels = dataStore[gamename];
 
+            /* one line to separate the game from the rest, except the first line */
+            if(line != 0) {
+                drawLine(ctx, line);
+                line += 1;
+            }
+
             /* draw all the levels */
             levels.forEach(function(level) {
                 var lastx = historysize;
@@ -80,10 +86,6 @@ function drawEverything() {
             ctx.font = "16px Georgia";
             ctx.fillStyle = 'black';
             ctx.fillText(gamename, 10, (gamestartline * pixh) + 16);        
-
-            /* one line to separate the game from the rest */
-            drawLine(ctx, line);
-            line += 1;
         }
     });
 
