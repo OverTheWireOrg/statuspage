@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.319,
+        "elapsed": 2.311,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1618822976.7251925
+        "timestamp": 1618823876.9102604
     },
     {
-        "elapsed": 1.17,
+        "elapsed": 1.14,
         "longname": "manpage0>1",
         "name": "manpage1",
         "status": "up",
-        "timestamp": 1618822976.725228
-    },
-    {
-        "elapsed": 1.387,
-        "longname": "manpage1>2",
-        "name": "manpage2",
-        "status": "up",
-        "timestamp": 1618822976.7252634
-    },
-    {
-        "elapsed": 1.418,
-        "longname": "manpage2>3",
-        "name": "manpage3",
-        "status": "up",
-        "timestamp": 1618822976.7252977
+        "timestamp": 1618823876.910335
     },
     {
         "elapsed": 1.333,
+        "longname": "manpage1>2",
+        "name": "manpage2",
+        "status": "up",
+        "timestamp": 1618823876.9103827
+    },
+    {
+        "elapsed": 4.342,
+        "longname": "manpage2>3",
+        "name": "manpage3",
+        "status": "down",
+        "timestamp": 1618823876.910426
+    },
+    {
+        "elapsed": 1.372,
         "longname": "manpage3>4",
         "name": "manpage4",
         "status": "up",
-        "timestamp": 1618822976.7253315
+        "timestamp": 1618823876.9104598
     },
     {
-        "elapsed": 1.482,
+        "elapsed": 1.456,
         "longname": "manpage4>5",
         "name": "manpage5",
         "status": "up",
-        "timestamp": 1618822976.725365
+        "timestamp": 1618823876.9105227
     },
     {
         "elapsed": 0.001,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "unknown",
-        "timestamp": 1618822976.7250702
+        "timestamp": 1618823876.91011
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1618822976.7251542
+        "timestamp": 1618823876.91021
     }
 ]
