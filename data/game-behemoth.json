@@ -1,65 +1,65 @@
 [
     {
-        "elapsed": 2.675,
+        "elapsed": 2.707,
         "longname": "behemoth0",
         "name": "behemoth0",
         "status": "up",
-        "timestamp": 1619757154.3883028
-    },
-    {
-        "elapsed": 0.681,
-        "longname": "behemoth0 > 1",
-        "name": "behemoth1",
-        "status": "up",
-        "timestamp": 1619757154.3883812
+        "timestamp": 1619758053.7898827
     },
     {
         "elapsed": 0.675,
-        "longname": "behemoth1 > 2",
-        "name": "behemoth2",
+        "longname": "behemoth0 > 1",
+        "name": "behemoth1",
         "status": "up",
-        "timestamp": 1619757154.388419
+        "timestamp": 1619758053.7899806
     },
     {
-        "elapsed": 0.787,
+        "elapsed": 3.641,
+        "longname": "behemoth1 > 2",
+        "name": "behemoth2",
+        "status": "down",
+        "timestamp": 1619758053.790046
+    },
+    {
+        "elapsed": 0.765,
         "longname": "behemoth2 > 3",
         "name": "behemoth3",
         "status": "up",
-        "timestamp": 1619757154.3884537
+        "timestamp": 1619758053.7900937
     },
     {
-        "elapsed": 0.695,
+        "elapsed": 0.636,
         "longname": "behemoth3 > 4",
         "name": "behemoth4",
         "status": "up",
-        "timestamp": 1619757154.3884869
+        "timestamp": 1619758053.7901392
     },
     {
-        "elapsed": 1.756,
+        "elapsed": 1.784,
         "longname": "behemoth4 > 5",
         "name": "behemoth5",
         "status": "up",
-        "timestamp": 1619757154.3885202
+        "timestamp": 1619758053.7901826
     },
     {
-        "elapsed": 1.631,
+        "elapsed": 1.61,
         "longname": "behemoth5 > 6",
         "name": "behemoth6",
         "status": "up",
-        "timestamp": 1619757154.388553
+        "timestamp": 1619758053.7902257
     },
     {
-        "elapsed": 0.794,
+        "elapsed": 0.795,
         "longname": "behemoth6 > 7",
         "name": "behemoth7",
         "status": "up",
-        "timestamp": 1619757154.388586
+        "timestamp": 1619758053.7902677
     },
     {
-        "elapsed": 0.651,
+        "elapsed": 0.632,
         "longname": "behemoth7 > 8",
         "name": "behemoth8",
         "status": "up",
-        "timestamp": 1619757154.3886187
+        "timestamp": 1619758053.7903318
     }
 ]
