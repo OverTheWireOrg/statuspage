@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.346,
+        "elapsed": 2.379,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1624375079.9301023
+        "timestamp": 1624375979.0987928
     },
     {
-        "elapsed": 1.177,
+        "elapsed": 1.194,
         "longname": "manpage0>1",
         "name": "manpage1",
         "status": "up",
-        "timestamp": 1624375079.9301372
-    },
-    {
-        "elapsed": 2.237,
-        "longname": "manpage1>2",
-        "name": "manpage2",
-        "status": "up",
-        "timestamp": 1624375079.9301724
-    },
-    {
-        "elapsed": 1.534,
-        "longname": "manpage2>3",
-        "name": "manpage3",
-        "status": "up",
-        "timestamp": 1624375079.9302068
+        "timestamp": 1624375979.0988405
     },
     {
         "elapsed": 1.385,
+        "longname": "manpage1>2",
+        "name": "manpage2",
+        "status": "up",
+        "timestamp": 1624375979.0988863
+    },
+    {
+        "elapsed": 1.22,
+        "longname": "manpage2>3",
+        "name": "manpage3",
+        "status": "down",
+        "timestamp": 1624375979.0990672
+    },
+    {
+        "elapsed": 1.331,
         "longname": "manpage3>4",
         "name": "manpage4",
         "status": "up",
-        "timestamp": 1624375079.9302409
+        "timestamp": 1624375979.0991793
     },
     {
-        "elapsed": 1.502,
+        "elapsed": 1.501,
         "longname": "manpage4>5",
         "name": "manpage5",
         "status": "up",
-        "timestamp": 1624375079.930274
+        "timestamp": 1624375979.0992181
     },
     {
         "elapsed": 0.001,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "unknown",
-        "timestamp": 1624375079.9299793
+        "timestamp": 1624375979.0986185
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1624375079.9300632
+        "timestamp": 1624375979.0987408
     }
 ]
