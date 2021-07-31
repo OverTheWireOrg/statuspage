@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.381,
+        "elapsed": 2.382,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1627767180.8970704
+        "timestamp": 1627768078.008496
     },
     {
-        "elapsed": 1.191,
+        "elapsed": 1.182,
         "longname": "manpage0>1",
         "name": "manpage1",
         "status": "up",
-        "timestamp": 1627767180.8971117
-    },
-    {
-        "elapsed": 1.353,
-        "longname": "manpage1>2",
-        "name": "manpage2",
-        "status": "up",
-        "timestamp": 1627767180.8971555
-    },
-    {
-        "elapsed": 4.302,
-        "longname": "manpage2>3",
-        "name": "manpage3",
-        "status": "down",
-        "timestamp": 1627767180.8972101
+        "timestamp": 1627768078.0085328
     },
     {
         "elapsed": 1.399,
+        "longname": "manpage1>2",
+        "name": "manpage2",
+        "status": "up",
+        "timestamp": 1627768078.0085678
+    },
+    {
+        "elapsed": 1.505,
+        "longname": "manpage2>3",
+        "name": "manpage3",
+        "status": "up",
+        "timestamp": 1627768078.0086021
+    },
+    {
+        "elapsed": 1.311,
         "longname": "manpage3>4",
         "name": "manpage4",
         "status": "up",
-        "timestamp": 1627767180.897263
+        "timestamp": 1627768078.0086362
     },
     {
-        "elapsed": 1.475,
+        "elapsed": 1.485,
         "longname": "manpage4>5",
         "name": "manpage5",
         "status": "up",
-        "timestamp": 1627767180.8973067
+        "timestamp": 1627768078.0086696
     },
     {
         "elapsed": 0.001,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "unknown",
-        "timestamp": 1627767180.8969378
+        "timestamp": 1627768078.0083745
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1627767180.8970256
+        "timestamp": 1627768078.008458
     }
 ]
