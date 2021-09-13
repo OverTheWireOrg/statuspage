@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.336,
+        "elapsed": 2.312,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1631501276.547508
+        "timestamp": 1631502180.3560767
     },
     {
-        "elapsed": 1.159,
+        "elapsed": 1.21,
         "longname": "manpage0>1",
         "name": "manpage1",
         "status": "up",
-        "timestamp": 1631501276.5475638
-    },
-    {
-        "elapsed": 1.391,
-        "longname": "manpage1>2",
-        "name": "manpage2",
-        "status": "up",
-        "timestamp": 1631501276.5475998
-    },
-    {
-        "elapsed": 1.47,
-        "longname": "manpage2>3",
-        "name": "manpage3",
-        "status": "up",
-        "timestamp": 1631501276.5476358
+        "timestamp": 1631502180.3561244
     },
     {
         "elapsed": 1.353,
+        "longname": "manpage1>2",
+        "name": "manpage2",
+        "status": "up",
+        "timestamp": 1631502180.3561687
+    },
+    {
+        "elapsed": 4.36,
+        "longname": "manpage2>3",
+        "name": "manpage3",
+        "status": "down",
+        "timestamp": 1631502180.3562171
+    },
+    {
+        "elapsed": 1.37,
         "longname": "manpage3>4",
         "name": "manpage4",
         "status": "up",
-        "timestamp": 1631501276.5476708
+        "timestamp": 1631502180.3562527
     },
     {
-        "elapsed": 1.45,
+        "elapsed": 1.48,
         "longname": "manpage4>5",
         "name": "manpage5",
         "status": "up",
-        "timestamp": 1631501276.5477052
+        "timestamp": 1631502180.3562868
     },
     {
         "elapsed": 0.001,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "unknown",
-        "timestamp": 1631501276.547385
+        "timestamp": 1631502180.3559215
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1631501276.5474696
+        "timestamp": 1631502180.3560257
     }
 ]
