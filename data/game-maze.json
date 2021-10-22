@@ -1,72 +1,72 @@
 [
     {
-        "elapsed": 2.404,
+        "elapsed": 2.359,
         "longname": "maze0",
         "name": "maze0",
         "status": "up",
-        "timestamp": 1634902407.3682594
+        "timestamp": 1634903322.486686
     },
     {
-        "elapsed": 16.694,
+        "elapsed": 31.708,
         "longname": "maze0 > 1",
         "name": "maze1",
-        "status": "up",
-        "timestamp": 1634902407.368337
+        "status": "down",
+        "timestamp": 1634903322.4868405
     },
     {
-        "elapsed": 1.004,
+        "elapsed": 0.997,
         "longname": "maze1 > 2",
         "name": "maze2",
         "status": "up",
-        "timestamp": 1634902407.3683758
-    },
-    {
-        "elapsed": 1.22,
-        "longname": "maze2 > 3",
-        "name": "maze3",
-        "status": "up",
-        "timestamp": 1634902407.368412
-    },
-    {
-        "elapsed": 0.652,
-        "longname": "maze3 > 4",
-        "name": "maze4",
-        "status": "up",
-        "timestamp": 1634902407.368446
-    },
-    {
-        "elapsed": 1.295,
-        "longname": "maze4 > 5",
-        "name": "maze5",
-        "status": "up",
-        "timestamp": 1634902407.3684807
-    },
-    {
-        "elapsed": 0.694,
-        "longname": "maze5 > 6",
-        "name": "maze6",
-        "status": "up",
-        "timestamp": 1634902407.3685262
-    },
-    {
-        "elapsed": 1.255,
-        "longname": "maze6 > 7",
-        "name": "maze7",
-        "status": "up",
-        "timestamp": 1634902407.3685594
+        "timestamp": 1634903322.4869182
     },
     {
         "elapsed": 1.248,
+        "longname": "maze2 > 3",
+        "name": "maze3",
+        "status": "up",
+        "timestamp": 1634903322.486988
+    },
+    {
+        "elapsed": 0.655,
+        "longname": "maze3 > 4",
+        "name": "maze4",
+        "status": "up",
+        "timestamp": 1634903322.487056
+    },
+    {
+        "elapsed": 1.259,
+        "longname": "maze4 > 5",
+        "name": "maze5",
+        "status": "up",
+        "timestamp": 1634903322.4871242
+    },
+    {
+        "elapsed": 0.69,
+        "longname": "maze5 > 6",
+        "name": "maze6",
+        "status": "up",
+        "timestamp": 1634903322.4871955
+    },
+    {
+        "elapsed": 1.277,
+        "longname": "maze6 > 7",
+        "name": "maze7",
+        "status": "up",
+        "timestamp": 1634903322.4872775
+    },
+    {
+        "elapsed": 1.265,
         "longname": "maze7 > 8",
         "name": "maze8",
         "status": "up",
-        "timestamp": 1634902407.3686092
+        "timestamp": 1634903322.4873319
     },
     {
-        "elapsed": 2.795,
+        "elapsed": 2.772,
         "longname": "maze8 > 9",
         "name": "maze9",
         "status": "up",
-        "timestamp": 1634902407.368643
+        "timestamp": 1634903322.4874005
     }
 ]
