@@ -1,240 +1,240 @@
 [
     {
-        "elapsed": 0.535,
+        "elapsed": 0.558,
         "longname": "bandit0",
         "name": "bandit0",
         "status": "up",
-        "timestamp": 1635702439.5986261
+        "timestamp": 1635703334.6752703
     },
     {
-        "elapsed": 0.545,
+        "elapsed": 0.056,
         "longname": "bandit0 > 1",
         "name": "bandit1",
-        "status": "up",
-        "timestamp": 1635702439.598661
+        "status": "down",
+        "timestamp": 1635703334.6753118
     },
     {
-        "elapsed": 0.558,
+        "elapsed": 0.551,
         "longname": "bandit1 > 2",
         "name": "bandit2",
         "status": "up",
-        "timestamp": 1635702439.5986958
+        "timestamp": 1635703334.675346
     },
     {
-        "elapsed": 0.545,
+        "elapsed": 0.542,
         "longname": "bandit2 > 3",
         "name": "bandit3",
         "status": "up",
-        "timestamp": 1635702439.59873
+        "timestamp": 1635703334.6753795
     },
     {
-        "elapsed": 0.543,
+        "elapsed": 0.534,
         "longname": "bandit3 > 4",
         "name": "bandit4",
         "status": "up",
-        "timestamp": 1635702439.5987663
+        "timestamp": 1635703334.675413
     },
     {
-        "elapsed": 0.548,
+        "elapsed": 0.551,
         "longname": "bandit4 > 5",
         "name": "bandit5",
         "status": "up",
-        "timestamp": 1635702439.598801
+        "timestamp": 1635703334.6754467
     },
     {
-        "elapsed": 0.548,
+        "elapsed": 0.549,
         "longname": "bandit5 > 6",
         "name": "bandit6",
         "status": "up",
-        "timestamp": 1635702439.5988352
+        "timestamp": 1635703334.6754801
     },
     {
-        "elapsed": 1.422,
+        "elapsed": 1.247,
         "longname": "bandit6 > 7",
         "name": "bandit7",
         "status": "up",
-        "timestamp": 1635702439.5988698
+        "timestamp": 1635703334.6755133
     },
     {
-        "elapsed": 0.585,
+        "elapsed": 0.544,
         "longname": "bandit7 > 8",
         "name": "bandit8",
         "status": "up",
-        "timestamp": 1635702439.5989056
+        "timestamp": 1635703334.6755466
     },
     {
-        "elapsed": 0.059,
+        "elapsed": 0.543,
         "longname": "bandit8 > 9",
         "name": "bandit9",
-        "status": "down",
-        "timestamp": 1635702439.5989482
+        "status": "up",
+        "timestamp": 1635703334.6755798
     },
     {
         "elapsed": 0.542,
         "longname": "bandit9 > 10",
         "name": "bandit10",
         "status": "up",
-        "timestamp": 1635702439.5989828
+        "timestamp": 1635703334.6756132
     },
     {
-        "elapsed": 0.55,
+        "elapsed": 0.545,
         "longname": "bandit10 > 11",
         "name": "bandit11",
         "status": "up",
-        "timestamp": 1635702439.5990167
+        "timestamp": 1635703334.6756463
     },
     {
-        "elapsed": 0.057,
+        "elapsed": 0.551,
         "longname": "bandit11 > 12",
         "name": "bandit12",
-        "status": "down",
-        "timestamp": 1635702439.5990546
-    },
-    {
-        "elapsed": 0.056,
-        "longname": "bandit12 > 13",
-        "name": "bandit13",
-        "status": "down",
-        "timestamp": 1635702439.5990922
-    },
-    {
-        "elapsed": 0.056,
-        "longname": "bandit13 > 14",
-        "name": "bandit14",
-        "status": "down",
-        "timestamp": 1635702439.5991304
-    },
-    {
-        "elapsed": 3.27,
-        "longname": "bandit14 > 15",
-        "name": "bandit15",
         "status": "up",
-        "timestamp": 1635702439.5981104
-    },
-    {
-        "elapsed": 0.584,
-        "longname": "bandit15 > 16",
-        "name": "bandit16",
-        "status": "up",
-        "timestamp": 1635702439.5981822
-    },
-    {
-        "elapsed": 6.404,
-        "longname": "bandit16 > 17",
-        "name": "bandit17",
-        "status": "up",
-        "timestamp": 1635702439.5982656
-    },
-    {
-        "elapsed": 0.567,
-        "longname": "bandit17 > 18",
-        "name": "bandit18",
-        "status": "up",
-        "timestamp": 1635702439.5991645
+        "timestamp": 1635703334.6756797
     },
     {
         "elapsed": 0.554,
+        "longname": "bandit12 > 13",
+        "name": "bandit13",
+        "status": "up",
+        "timestamp": 1635703334.6757133
+    },
+    {
+        "elapsed": 0.642,
+        "longname": "bandit13 > 14",
+        "name": "bandit14",
+        "status": "up",
+        "timestamp": 1635703334.6757464
+    },
+    {
+        "elapsed": 3.344,
+        "longname": "bandit14 > 15",
+        "name": "bandit15",
+        "status": "up",
+        "timestamp": 1635703334.6727626
+    },
+    {
+        "elapsed": 0.582,
+        "longname": "bandit15 > 16",
+        "name": "bandit16",
+        "status": "up",
+        "timestamp": 1635703334.6748464
+    },
+    {
+        "elapsed": 6.471,
+        "longname": "bandit16 > 17",
+        "name": "bandit17",
+        "status": "up",
+        "timestamp": 1635703334.6748865
+    },
+    {
+        "elapsed": 0.55,
+        "longname": "bandit17 > 18",
+        "name": "bandit18",
+        "status": "up",
+        "timestamp": 1635703334.6757798
+    },
+    {
+        "elapsed": 0.539,
         "longname": "bandit18 > 19",
         "name": "bandit19",
         "status": "up",
-        "timestamp": 1635702439.5991993
+        "timestamp": 1635703334.6758132
     },
     {
-        "elapsed": 0.057,
+        "elapsed": 0.551,
         "longname": "bandit19 > 20",
         "name": "bandit20",
-        "status": "down",
-        "timestamp": 1635702439.599237
+        "status": "up",
+        "timestamp": 1635703334.675846
     },
     {
-        "elapsed": 0.056,
+        "elapsed": 0.659,
         "longname": "bandit20 > 21",
         "name": "bandit21",
-        "status": "down",
-        "timestamp": 1635702439.5992985
+        "status": "up",
+        "timestamp": 1635703334.6758795
     },
     {
-        "elapsed": 0.055,
+        "elapsed": 0.563,
         "longname": "bandit21 > 22",
         "name": "bandit22",
-        "status": "down",
-        "timestamp": 1635702439.5993867
+        "status": "up",
+        "timestamp": 1635703334.6759124
     },
     {
-        "elapsed": 0.533,
+        "elapsed": 0.578,
         "longname": "bandit22 > 23",
         "name": "bandit23",
         "status": "up",
-        "timestamp": 1635702439.5994253
+        "timestamp": 1635703334.6759458
     },
     {
-        "elapsed": 60.553,
+        "elapsed": 60.555,
         "longname": "bandit23 > 24",
         "name": "bandit24",
         "status": "up",
-        "timestamp": 1635702439.5994604
+        "timestamp": 1635703334.6759794
     },
     {
-        "elapsed": 4.396,
+        "elapsed": 4.391,
         "longname": "bandit24 > 25",
         "name": "bandit25",
         "status": "up",
-        "timestamp": 1635702439.5983129
+        "timestamp": 1635703334.6749222
     },
     {
-        "elapsed": 9.033,
+        "elapsed": 9.021,
         "longname": "bandit25 > 26",
         "name": "bandit26",
         "status": "up",
-        "timestamp": 1635702439.5983484
+        "timestamp": 1635703334.6749568
     },
     {
-        "elapsed": 5.57,
+        "elapsed": 5.584,
         "longname": "bandit26 > 27",
         "name": "bandit27",
         "status": "up",
-        "timestamp": 1635702439.5983837
+        "timestamp": 1635703334.6749918
     },
     {
-        "elapsed": 2.745,
+        "elapsed": 2.822,
         "longname": "bandit27 > 28",
         "name": "bandit28",
         "status": "up",
-        "timestamp": 1635702439.5984185
+        "timestamp": 1635703334.675026
     },
     {
-        "elapsed": 2.754,
+        "elapsed": 2.824,
         "longname": "bandit28 > 29",
         "name": "bandit29",
         "status": "up",
-        "timestamp": 1635702439.598453
+        "timestamp": 1635703334.6750603
     },
     {
-        "elapsed": 2.77,
+        "elapsed": 2.682,
         "longname": "bandit29 > 30",
         "name": "bandit30",
         "status": "up",
-        "timestamp": 1635702439.5984876
+        "timestamp": 1635703334.6750946
     },
     {
-        "elapsed": 2.838,
+        "elapsed": 2.773,
         "longname": "bandit30 > 31",
         "name": "bandit31",
         "status": "up",
-        "timestamp": 1635702439.5985222
+        "timestamp": 1635703334.6751292
     },
     {
-        "elapsed": 3.625,
+        "elapsed": 3.56,
         "longname": "bandit31 > 32",
         "name": "bandit32",
-        "status": "up",
-        "timestamp": 1635702439.5985565
+        "status": "down",
+        "timestamp": 1635703334.675172
     },
     {
-        "elapsed": 5.583,
+        "elapsed": 0.062,
         "longname": "bandit32 > 33",
         "name": "bandit33",
-        "status": "up",
-        "timestamp": 1635702439.5985913
+        "status": "down",
+        "timestamp": 1635703334.6752107
     }
 ]
