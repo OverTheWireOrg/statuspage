@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.301,
+        "elapsed": 2.31,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1640670477.3454247
+        "timestamp": 1640671384.9693882
     },
     {
-        "elapsed": 1.185,
+        "elapsed": 1.181,
         "longname": "manpage0>1",
         "name": "manpage1",
         "status": "up",
-        "timestamp": 1640670477.3454525
-    },
-    {
-        "elapsed": 1.423,
-        "longname": "manpage1>2",
-        "name": "manpage2",
-        "status": "up",
-        "timestamp": 1640670477.3454792
-    },
-    {
-        "elapsed": 1.517,
-        "longname": "manpage2>3",
-        "name": "manpage3",
-        "status": "up",
-        "timestamp": 1640670477.3455045
+        "timestamp": 1640671384.9694164
     },
     {
         "elapsed": 1.392,
+        "longname": "manpage1>2",
+        "name": "manpage2",
+        "status": "up",
+        "timestamp": 1640671384.9694424
+    },
+    {
+        "elapsed": 4.199,
+        "longname": "manpage2>3",
+        "name": "manpage3",
+        "status": "down",
+        "timestamp": 1640671384.9694715
+    },
+    {
+        "elapsed": 1.363,
         "longname": "manpage3>4",
         "name": "manpage4",
         "status": "up",
-        "timestamp": 1640670477.345529
+        "timestamp": 1640671384.9694955
     },
     {
-        "elapsed": 1.488,
+        "elapsed": 1.497,
         "longname": "manpage4>5",
         "name": "manpage5",
         "status": "up",
-        "timestamp": 1640670477.3455536
+        "timestamp": 1640671384.9695196
     },
     {
         "elapsed": 0.001,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "unknown",
-        "timestamp": 1640670477.3453107
+        "timestamp": 1640671384.969259
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1640670477.3453932
+        "timestamp": 1640671384.969358
     }
 ]
