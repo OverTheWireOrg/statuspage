@@ -2,6 +2,12 @@
     {
         "data": [
             {
+                "elapsed": 0.185,
+                "longname": "vortex0 > 1",
+                "status": "up",
+                "timestamp": 1641386044.8737657
+            },
+            {
                 "elapsed": 0.166,
                 "longname": "vortex0 > 1",
                 "status": "up",
@@ -594,18 +600,18 @@
                 "longname": "vortex0 > 1",
                 "status": "unknown",
                 "timestamp": 1641294246.9518034
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex0 > 1",
-                "status": "unknown",
-                "timestamp": 1641293341.845537
             }
         ],
         "name": "vortex1"
     },
     {
         "data": [
+            {
+                "elapsed": 2.335,
+                "longname": "vortex1 > 2",
+                "status": "up",
+                "timestamp": 1641386044.8737888
+            },
             {
                 "elapsed": 2.289,
                 "longname": "vortex1 > 2",
@@ -1055,6 +1061,12 @@
     },
     {
         "data": [
+            {
+                "elapsed": 0.648,
+                "longname": "vortex2 > 3",
+                "status": "up",
+                "timestamp": 1641386044.8738122
+            },
             {
                 "elapsed": 0.657,
                 "longname": "vortex2 > 3",
@@ -1648,12 +1660,6 @@
                 "longname": "vortex2 > 3",
                 "status": "unknown",
                 "timestamp": 1641294246.9518955
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex2 > 3",
-                "status": "unknown",
-                "timestamp": 1641293341.845623
             }
         ],
         "name": "vortex3"
@@ -1661,610 +1667,11 @@
     {
         "data": [
             {
-                "elapsed": 0.978,
+                "elapsed": 1.035,
                 "longname": "vortex3 > 4",
                 "status": "up",
-                "timestamp": 1641385165.8394444
+                "timestamp": 1641386044.8738356
             },
-            {
-                "elapsed": 0.972,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641384251.5883086
-            },
-            {
-                "elapsed": 1.029,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641383337.5930078
-            },
-            {
-                "elapsed": 0.986,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641382473.053801
-            },
-            {
-                "elapsed": 0.981,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641381559.6672142
-            },
-            {
-                "elapsed": 0.989,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641379744.472462
-            },
-            {
-                "elapsed": 1.014,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641378841.370403
-            },
-            {
-                "elapsed": 0.985,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641377967.589289
-            },
-            {
-                "elapsed": 0.982,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641377069.6655607
-            },
-            {
-                "elapsed": 0.991,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641376167.5971355
-            },
-            {
-                "elapsed": 0.991,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641375247.6608574
-            },
-            {
-                "elapsed": 0.988,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641374350.5633357
-            },
-            {
-                "elapsed": 0.986,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641373456.578156
-            },
-            {
-                "elapsed": 0.975,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641372564.7038202
-            },
-            {
-                "elapsed": 0.984,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641371657.3453853
-            },
-            {
-                "elapsed": 1.001,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641370743.2923791
-            },
-            {
-                "elapsed": 0.984,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641369846.5510387
-            },
-            {
-                "elapsed": 0.996,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641368950.0762956
-            },
-            {
-                "elapsed": 0.997,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641368045.0097027
-            },
-            {
-                "elapsed": 0.993,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641367167.6125364
-            },
-            {
-                "elapsed": 1.014,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641366255.4009535
-            },
-            {
-                "elapsed": 0.966,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641365345.455004
-            },
-            {
-                "elapsed": 0.973,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641364469.13351
-            },
-            {
-                "elapsed": 0.977,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641363558.0665743
-            },
-            {
-                "elapsed": 0.988,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641362668.7725885
-            },
-            {
-                "elapsed": 1.005,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641361737.5991554
-            },
-            {
-                "elapsed": 1.003,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641360842.7051857
-            },
-            {
-                "elapsed": 0.965,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641359937.9262612
-            },
-            {
-                "elapsed": 0.971,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641359042.64642
-            },
-            {
-                "elapsed": 0.986,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641358167.4247944
-            },
-            {
-                "elapsed": 0.98,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641357249.2493424
-            },
-            {
-                "elapsed": 0.998,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641356345.3009374
-            },
-            {
-                "elapsed": 1.003,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641355438.1967442
-            },
-            {
-                "elapsed": 0.982,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641354539.7823586
-            },
-            {
-                "elapsed": 1.008,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641353645.455069
-            },
-            {
-                "elapsed": 1.012,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641352744.1669078
-            },
-            {
-                "elapsed": 0.994,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641351862.3373165
-            },
-            {
-                "elapsed": 0.997,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641350965.3594766
-            },
-            {
-                "elapsed": 1.011,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641350042.053752
-            },
-            {
-                "elapsed": 0.967,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641349136.8685133
-            },
-            {
-                "elapsed": 0.984,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641348239.3744054
-            },
-            {
-                "elapsed": 0.983,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641347337.407101
-            },
-            {
-                "elapsed": 0.985,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641346469.1560097
-            },
-            {
-                "elapsed": 1.014,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641345541.231824
-            },
-            {
-                "elapsed": 0.995,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641344666.8724918
-            },
-            {
-                "elapsed": 0.982,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641343738.0073898
-            },
-            {
-                "elapsed": 1.076,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641342841.5829663
-            },
-            {
-                "elapsed": 0.986,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641341966.4591367
-            },
-            {
-                "elapsed": 0.991,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641341056.4413528
-            },
-            {
-                "elapsed": 0.983,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641340148.9346638
-            },
-            {
-                "elapsed": 0.97,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641339244.1305578
-            },
-            {
-                "elapsed": 0.991,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641338345.9971035
-            },
-            {
-                "elapsed": 0.987,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641337448.342344
-            },
-            {
-                "elapsed": 0.996,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641336537.515006
-            },
-            {
-                "elapsed": 0.995,
-                "longname": "vortex3 > 4",
-                "status": "up",
-                "timestamp": 1641335647.7057793
-            },
-            {
-                "elapsed": 0.002,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641334743.605853
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641333845.177662
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641332946.9270926
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641332042.074005
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641331138.0729969
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641330246.3989263
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641329369.9009285
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641328447.7673225
-            },
-            {
-                "elapsed": 0.002,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641327563.169501
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641326650.0354602
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641325736.5168664
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641324837.555995
-            },
-            {
-                "elapsed": 0.004,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641323940.0572045
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641323069.7102103
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641322155.834781
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641321273.2267425
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641320345.4028962
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641319452.1574907
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641318539.6467736
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641317651.7594962
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641316737.1154962
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641315839.5128608
-            },
-            {
-                "elapsed": 0.002,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641314962.6273274
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641314060.745521
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641313150.3467903
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641312241.2532892
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641311359.763587
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641310446.8774793
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641309535.9890988
-            },
-            {
-                "elapsed": 0.002,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641308650.4096134
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641307736.059615
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641306854.5783162
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641304165.4839427
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641303249.3370113
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641302347.2800524
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641301442.2685769
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641300538.0583825
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641299641.9423828
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641298768.9030154
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641297842.3906078
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641296967.3065548
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641296048.1064641
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641295140.9090252
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641294246.9519253
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641293341.8456504
-            }
-        ],
-        "name": "vortex4"
-    },
-    {
-        "data": [
             {
                 "elapsed": 2.191,
                 "longname": "vortex4 > 5",
@@ -2858,18 +2265,623 @@
                 "longname": "vortex3 > 4",
                 "status": "unknown",
                 "timestamp": 1641294246.9519253
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex3 > 4",
-                "status": "unknown",
-                "timestamp": 1641293341.8456504
             }
         ],
         "name": "vortex4"
     },
     {
         "data": [
+            {
+                "elapsed": 2.227,
+                "longname": "vortex4 > 5",
+                "status": "up",
+                "timestamp": 1641386044.8738585
+            },
+            {
+                "elapsed": 2.191,
+                "longname": "vortex4 > 5",
+                "status": "up",
+                "timestamp": 1641385165.8394773
+            },
+            {
+                "elapsed": 0.972,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641384251.5883086
+            },
+            {
+                "elapsed": 1.029,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641383337.5930078
+            },
+            {
+                "elapsed": 0.986,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641382473.053801
+            },
+            {
+                "elapsed": 0.981,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641381559.6672142
+            },
+            {
+                "elapsed": 0.989,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641379744.472462
+            },
+            {
+                "elapsed": 1.014,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641378841.370403
+            },
+            {
+                "elapsed": 0.985,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641377967.589289
+            },
+            {
+                "elapsed": 0.982,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641377069.6655607
+            },
+            {
+                "elapsed": 0.991,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641376167.5971355
+            },
+            {
+                "elapsed": 0.991,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641375247.6608574
+            },
+            {
+                "elapsed": 0.988,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641374350.5633357
+            },
+            {
+                "elapsed": 0.986,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641373456.578156
+            },
+            {
+                "elapsed": 0.975,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641372564.7038202
+            },
+            {
+                "elapsed": 0.984,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641371657.3453853
+            },
+            {
+                "elapsed": 1.001,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641370743.2923791
+            },
+            {
+                "elapsed": 0.984,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641369846.5510387
+            },
+            {
+                "elapsed": 0.996,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641368950.0762956
+            },
+            {
+                "elapsed": 0.997,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641368045.0097027
+            },
+            {
+                "elapsed": 0.993,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641367167.6125364
+            },
+            {
+                "elapsed": 1.014,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641366255.4009535
+            },
+            {
+                "elapsed": 0.966,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641365345.455004
+            },
+            {
+                "elapsed": 0.973,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641364469.13351
+            },
+            {
+                "elapsed": 0.977,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641363558.0665743
+            },
+            {
+                "elapsed": 0.988,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641362668.7725885
+            },
+            {
+                "elapsed": 1.005,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641361737.5991554
+            },
+            {
+                "elapsed": 1.003,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641360842.7051857
+            },
+            {
+                "elapsed": 0.965,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641359937.9262612
+            },
+            {
+                "elapsed": 0.971,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641359042.64642
+            },
+            {
+                "elapsed": 0.986,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641358167.4247944
+            },
+            {
+                "elapsed": 0.98,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641357249.2493424
+            },
+            {
+                "elapsed": 0.998,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641356345.3009374
+            },
+            {
+                "elapsed": 1.003,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641355438.1967442
+            },
+            {
+                "elapsed": 0.982,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641354539.7823586
+            },
+            {
+                "elapsed": 1.008,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641353645.455069
+            },
+            {
+                "elapsed": 1.012,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641352744.1669078
+            },
+            {
+                "elapsed": 0.994,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641351862.3373165
+            },
+            {
+                "elapsed": 0.997,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641350965.3594766
+            },
+            {
+                "elapsed": 1.011,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641350042.053752
+            },
+            {
+                "elapsed": 0.967,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641349136.8685133
+            },
+            {
+                "elapsed": 0.984,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641348239.3744054
+            },
+            {
+                "elapsed": 0.983,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641347337.407101
+            },
+            {
+                "elapsed": 0.985,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641346469.1560097
+            },
+            {
+                "elapsed": 1.014,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641345541.231824
+            },
+            {
+                "elapsed": 0.995,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641344666.8724918
+            },
+            {
+                "elapsed": 0.982,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641343738.0073898
+            },
+            {
+                "elapsed": 1.076,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641342841.5829663
+            },
+            {
+                "elapsed": 0.986,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641341966.4591367
+            },
+            {
+                "elapsed": 0.991,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641341056.4413528
+            },
+            {
+                "elapsed": 0.983,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641340148.9346638
+            },
+            {
+                "elapsed": 0.97,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641339244.1305578
+            },
+            {
+                "elapsed": 0.991,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641338345.9971035
+            },
+            {
+                "elapsed": 0.987,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641337448.342344
+            },
+            {
+                "elapsed": 0.996,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641336537.515006
+            },
+            {
+                "elapsed": 0.995,
+                "longname": "vortex3 > 4",
+                "status": "up",
+                "timestamp": 1641335647.7057793
+            },
+            {
+                "elapsed": 0.002,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641334743.605853
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641333845.177662
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641332946.9270926
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641332042.074005
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641331138.0729969
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641330246.3989263
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641329369.9009285
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641328447.7673225
+            },
+            {
+                "elapsed": 0.002,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641327563.169501
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641326650.0354602
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641325736.5168664
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641324837.555995
+            },
+            {
+                "elapsed": 0.004,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641323940.0572045
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641323069.7102103
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641322155.834781
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641321273.2267425
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641320345.4028962
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641319452.1574907
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641318539.6467736
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641317651.7594962
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641316737.1154962
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641315839.5128608
+            },
+            {
+                "elapsed": 0.002,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641314962.6273274
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641314060.745521
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641313150.3467903
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641312241.2532892
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641311359.763587
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641310446.8774793
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641309535.9890988
+            },
+            {
+                "elapsed": 0.002,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641308650.4096134
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641307736.059615
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641306854.5783162
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641304165.4839427
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641303249.3370113
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641302347.2800524
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641301442.2685769
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641300538.0583825
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641299641.9423828
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641298768.9030154
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641297842.3906078
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641296967.3065548
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641296048.1064641
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641295140.9090252
+            },
+            {
+                "elapsed": 0.001,
+                "longname": "vortex3 > 4",
+                "status": "unknown",
+                "timestamp": 1641294246.9519253
+            }
+        ],
+        "name": "vortex4"
+    },
+    {
+        "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex5 > 6",
+                "status": "unknown",
+                "timestamp": 1641386044.8731666
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex5 > 6",
@@ -3463,18 +3475,18 @@
                 "longname": "vortex5 > 6",
                 "status": "unknown",
                 "timestamp": 1641294246.95198
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex5 > 6",
-                "status": "unknown",
-                "timestamp": 1641293341.8457022
             }
         ],
         "name": "vortex6"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex6 > 7",
+                "status": "unknown",
+                "timestamp": 1641386044.8732371
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex6 > 7",
@@ -4068,18 +4080,18 @@
                 "longname": "vortex6 > 7",
                 "status": "unknown",
                 "timestamp": 1641294246.9520063
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex6 > 7",
-                "status": "unknown",
-                "timestamp": 1641293341.8457274
             }
         ],
         "name": "vortex7"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex7 > 8",
+                "status": "unknown",
+                "timestamp": 1641386044.8732708
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex7 > 8",
@@ -4673,18 +4685,18 @@
                 "longname": "vortex7 > 8",
                 "status": "unknown",
                 "timestamp": 1641294246.9520328
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex7 > 8",
-                "status": "unknown",
-                "timestamp": 1641293341.8457525
             }
         ],
         "name": "vortex8"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex8 > 9",
+                "status": "unknown",
+                "timestamp": 1641386044.8733
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex8 > 9",
@@ -5278,18 +5290,18 @@
                 "longname": "vortex8 > 9",
                 "status": "unknown",
                 "timestamp": 1641294246.9520586
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex8 > 9",
-                "status": "unknown",
-                "timestamp": 1641293341.8457775
             }
         ],
         "name": "vortex9"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex9 > 10",
+                "status": "unknown",
+                "timestamp": 1641386044.8733282
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex9 > 10",
@@ -5883,18 +5895,18 @@
                 "longname": "vortex9 > 10",
                 "status": "unknown",
                 "timestamp": 1641294246.952085
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex9 > 10",
-                "status": "unknown",
-                "timestamp": 1641293341.8458052
             }
         ],
         "name": "vortex10"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex10 > 11",
+                "status": "unknown",
+                "timestamp": 1641386044.8733552
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex10 > 11",
@@ -6488,18 +6500,18 @@
                 "longname": "vortex10 > 11",
                 "status": "unknown",
                 "timestamp": 1641294246.952111
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex10 > 11",
-                "status": "unknown",
-                "timestamp": 1641293341.8458297
             }
         ],
         "name": "vortex11"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex11 > 12",
+                "status": "unknown",
+                "timestamp": 1641386044.8733819
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex11 > 12",
@@ -7093,18 +7105,18 @@
                 "longname": "vortex11 > 12",
                 "status": "unknown",
                 "timestamp": 1641294246.952137
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex11 > 12",
-                "status": "unknown",
-                "timestamp": 1641293341.8458543
             }
         ],
         "name": "vortex12"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex12 > 13",
+                "status": "unknown",
+                "timestamp": 1641386044.8734086
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex12 > 13",
@@ -7698,18 +7710,18 @@
                 "longname": "vortex12 > 13",
                 "status": "unknown",
                 "timestamp": 1641294246.952163
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex12 > 13",
-                "status": "unknown",
-                "timestamp": 1641293341.8458788
             }
         ],
         "name": "vortex13"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex13 > 14",
+                "status": "unknown",
+                "timestamp": 1641386044.8734345
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex13 > 14",
@@ -8303,18 +8315,18 @@
                 "longname": "vortex13 > 14",
                 "status": "unknown",
                 "timestamp": 1641294246.9521887
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex13 > 14",
-                "status": "unknown",
-                "timestamp": 1641293341.8459034
             }
         ],
         "name": "vortex14"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex14 > 15",
+                "status": "unknown",
+                "timestamp": 1641386044.8734615
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex14 > 15",
@@ -8908,18 +8920,18 @@
                 "longname": "vortex14 > 15",
                 "status": "unknown",
                 "timestamp": 1641294246.9522145
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex14 > 15",
-                "status": "unknown",
-                "timestamp": 1641293341.8459277
             }
         ],
         "name": "vortex15"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex15 > 16",
+                "status": "unknown",
+                "timestamp": 1641386044.8734877
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex15 > 16",
@@ -9513,18 +9525,18 @@
                 "longname": "vortex15 > 16",
                 "status": "unknown",
                 "timestamp": 1641294246.9522402
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex15 > 16",
-                "status": "unknown",
-                "timestamp": 1641293341.8459527
             }
         ],
         "name": "vortex16"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex16 > 17",
+                "status": "unknown",
+                "timestamp": 1641386044.8735132
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex16 > 17",
@@ -10118,18 +10130,18 @@
                 "longname": "vortex16 > 17",
                 "status": "unknown",
                 "timestamp": 1641294246.952267
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex16 > 17",
-                "status": "unknown",
-                "timestamp": 1641293341.845979
             }
         ],
         "name": "vortex17"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex17 > 18",
+                "status": "unknown",
+                "timestamp": 1641386044.8735557
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex17 > 18",
@@ -10723,18 +10735,18 @@
                 "longname": "vortex17 > 18",
                 "status": "unknown",
                 "timestamp": 1641294246.952293
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex17 > 18",
-                "status": "unknown",
-                "timestamp": 1641293341.846004
             }
         ],
         "name": "vortex18"
     },
     {
         "data": [
+            {
+                "elapsed": 0.005,
+                "longname": "vortex18 > 19",
+                "status": "unknown",
+                "timestamp": 1641386044.8735828
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex18 > 19",
@@ -11328,18 +11340,18 @@
                 "longname": "vortex18 > 19",
                 "status": "unknown",
                 "timestamp": 1641294246.9523187
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex18 > 19",
-                "status": "unknown",
-                "timestamp": 1641293341.8460286
             }
         ],
         "name": "vortex19"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex19 > 20",
+                "status": "unknown",
+                "timestamp": 1641386044.8736095
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex19 > 20",
@@ -11933,18 +11945,18 @@
                 "longname": "vortex19 > 20",
                 "status": "unknown",
                 "timestamp": 1641294246.9523437
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex19 > 20",
-                "status": "unknown",
-                "timestamp": 1641293341.8460531
             }
         ],
         "name": "vortex20"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex20 > 21",
+                "status": "unknown",
+                "timestamp": 1641386044.8736353
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex20 > 21",
@@ -12538,18 +12550,18 @@
                 "longname": "vortex20 > 21",
                 "status": "unknown",
                 "timestamp": 1641294246.952369
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex20 > 21",
-                "status": "unknown",
-                "timestamp": 1641293341.846078
             }
         ],
         "name": "vortex21"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex21 > 22",
+                "status": "unknown",
+                "timestamp": 1641386044.8736625
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex21 > 22",
@@ -13143,18 +13155,18 @@
                 "longname": "vortex21 > 22",
                 "status": "unknown",
                 "timestamp": 1641294246.952395
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex21 > 22",
-                "status": "unknown",
-                "timestamp": 1641293341.8461025
             }
         ],
         "name": "vortex22"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex22 > 23",
+                "status": "unknown",
+                "timestamp": 1641386044.8736892
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex22 > 23",
@@ -13748,18 +13760,18 @@
                 "longname": "vortex22 > 23",
                 "status": "unknown",
                 "timestamp": 1641294246.9524207
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex22 > 23",
-                "status": "unknown",
-                "timestamp": 1641293341.8461268
             }
         ],
         "name": "vortex23"
     },
     {
         "data": [
+            {
+                "elapsed": 0.001,
+                "longname": "vortex23 > 24",
+                "status": "unknown",
+                "timestamp": 1641386044.873715
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex23 > 24",
@@ -14353,18 +14365,18 @@
                 "longname": "vortex23 > 24",
                 "status": "unknown",
                 "timestamp": 1641294246.9524462
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex23 > 24",
-                "status": "unknown",
-                "timestamp": 1641293341.8461509
             }
         ],
         "name": "vortex24"
     },
     {
         "data": [
+            {
+                "elapsed": 0.002,
+                "longname": "vortex24 > 25",
+                "status": "unknown",
+                "timestamp": 1641386044.8737411
+            },
             {
                 "elapsed": 0.001,
                 "longname": "vortex24 > 25",
@@ -14958,12 +14970,6 @@
                 "longname": "vortex24 > 25",
                 "status": "unknown",
                 "timestamp": 1641294246.952472
-            },
-            {
-                "elapsed": 0.001,
-                "longname": "vortex24 > 25",
-                "status": "unknown",
-                "timestamp": 1641293341.8461752
             }
         ],
         "name": "vortex25"
