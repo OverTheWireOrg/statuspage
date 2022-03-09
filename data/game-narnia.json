@@ -1,72 +1,72 @@
 [
     {
-        "elapsed": 2.33,
+        "elapsed": 0.068,
         "longname": "narnia0",
         "name": "narnia0",
-        "status": "up",
-        "timestamp": 1646798606.6908982
+        "status": "down",
+        "timestamp": 1646799532.9336154
     },
     {
-        "elapsed": 0.594,
+        "elapsed": 0.058,
         "longname": "narnia0 > 1",
         "name": "narnia1",
-        "status": "up",
-        "timestamp": 1646798606.690998
+        "status": "down",
+        "timestamp": 1646799532.9336903
     },
     {
-        "elapsed": 0.113,
+        "elapsed": 2.375,
         "longname": "narnia1 > 2",
         "name": "narnia2",
-        "status": "down",
-        "timestamp": 1646798606.6910667
+        "status": "up",
+        "timestamp": 1646799532.9337213
     },
     {
-        "elapsed": 0.683,
+        "elapsed": 0.061,
         "longname": "narnia2 > 3",
         "name": "narnia3",
-        "status": "up",
-        "timestamp": 1646798606.6911178
-    },
-    {
-        "elapsed": 0.057,
-        "longname": "narnia3 > 4",
-        "name": "narnia4",
         "status": "down",
-        "timestamp": 1646798606.6911705
+        "timestamp": 1646799532.9337516
     },
     {
         "elapsed": 0.054,
-        "longname": "narnia4 > 5",
-        "name": "narnia5",
+        "longname": "narnia3 > 4",
+        "name": "narnia4",
         "status": "down",
-        "timestamp": 1646798606.6912723
+        "timestamp": 1646799532.9337807
     },
     {
-        "elapsed": 1.272,
+        "elapsed": 0.662,
+        "longname": "narnia4 > 5",
+        "name": "narnia5",
+        "status": "up",
+        "timestamp": 1646799532.933806
+    },
+    {
+        "elapsed": 1.269,
         "longname": "narnia5 > 6",
         "name": "narnia6",
         "status": "up",
-        "timestamp": 1646798606.6913288
+        "timestamp": 1646799532.9338305
     },
     {
-        "elapsed": 0.055,
+        "elapsed": 0.637,
         "longname": "narnia6 > 7",
         "name": "narnia7",
-        "status": "down",
-        "timestamp": 1646798606.691361
+        "status": "up",
+        "timestamp": 1646799532.9338539
     },
     {
-        "elapsed": 2.652,
+        "elapsed": 0.056,
         "longname": "narnia7 > 8",
         "name": "narnia8",
-        "status": "up",
-        "timestamp": 1646798606.691399
+        "status": "down",
+        "timestamp": 1646799532.93388
     },
     {
-        "elapsed": 0.843,
+        "elapsed": 0.818,
         "longname": "narnia8 > 9",
         "name": "narnia9",
         "status": "up",
-        "timestamp": 1646798606.6914272
+        "timestamp": 1646799532.9339037
     }
 ]
