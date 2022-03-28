@@ -7,6 +7,11 @@
 </head>
 
 <body>
+	<div class="header">
+		<a href="https://www.overthewire.org">OverTheWire</a>
+		<img src="test_files/domokitten.png" class="domokitten"></img>
+	</div>
+	
 	<div id="app">
 		<div v-for="gamename in games" :key="gamename" class="game" id="game-{{gamename}}">
 			<h1 class="name">{{gamename}}<span v-if="notUpdated(gamename)" class="blinking"
