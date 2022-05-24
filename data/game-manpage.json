@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.373,
+        "elapsed": 2.405,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1653423480.3622134
-    },
-    {
-        "elapsed": 1.195,
-        "longname": "manpage0>1",
-        "name": "manpage1",
-        "status": "up",
-        "timestamp": 1653423480.3622687
+        "timestamp": 1653424381.016779
     },
     {
         "elapsed": 1.189,
-        "longname": "manpage1>2",
-        "name": "manpage2",
-        "status": "down",
-        "timestamp": 1653423480.3623273
+        "longname": "manpage0>1",
+        "name": "manpage1",
+        "status": "up",
+        "timestamp": 1653424381.0168302
     },
     {
-        "elapsed": 1.312,
+        "elapsed": 1.381,
+        "longname": "manpage1>2",
+        "name": "manpage2",
+        "status": "up",
+        "timestamp": 1653424381.0168793
+    },
+    {
+        "elapsed": 1.222,
         "longname": "manpage2>3",
         "name": "manpage3",
         "status": "down",
-        "timestamp": 1653423480.3623822
+        "timestamp": 1653424381.0169146
     },
     {
-        "elapsed": 1.374,
+        "elapsed": 1.369,
         "longname": "manpage3>4",
         "name": "manpage4",
         "status": "up",
-        "timestamp": 1653423480.3625212
+        "timestamp": 1653424381.016941
     },
     {
-        "elapsed": 1.461,
+        "elapsed": 1.548,
         "longname": "manpage4>5",
         "name": "manpage5",
         "status": "up",
-        "timestamp": 1653423480.3625634
+        "timestamp": 1653424381.016966
     },
     {
-        "elapsed": 1.282,
+        "elapsed": 1.255,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "up",
-        "timestamp": 1653423480.3625953
+        "timestamp": 1653424381.0169902
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1653423480.3621056
+        "timestamp": 1653424381.0166802
     }
 ]
