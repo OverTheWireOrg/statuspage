@@ -1,58 +1,58 @@
 [
     {
-        "elapsed": 2.357,
+        "elapsed": 2.404,
         "longname": "manpage0",
         "name": "manpage0",
         "status": "up",
-        "timestamp": 1654035485.1225698
+        "timestamp": 1654036387.55845
     },
     {
-        "elapsed": 1.192,
+        "elapsed": 1.196,
         "longname": "manpage0>1",
         "name": "manpage1",
         "status": "up",
-        "timestamp": 1654035485.1226428
+        "timestamp": 1654036387.5584798
     },
     {
-        "elapsed": 1.245,
+        "elapsed": 1.438,
         "longname": "manpage1>2",
         "name": "manpage2",
-        "status": "down",
-        "timestamp": 1654035485.1227326
-    },
-    {
-        "elapsed": 1.678,
-        "longname": "manpage2>3",
-        "name": "manpage3",
         "status": "up",
-        "timestamp": 1654035485.1227686
-    },
-    {
-        "elapsed": 1.343,
-        "longname": "manpage3>4",
-        "name": "manpage4",
-        "status": "up",
-        "timestamp": 1654035485.1227968
-    },
-    {
-        "elapsed": 1.467,
-        "longname": "manpage4>5",
-        "name": "manpage5",
-        "status": "up",
-        "timestamp": 1654035485.1228237
+        "timestamp": 1654036387.558506
     },
     {
         "elapsed": 1.281,
+        "longname": "manpage2>3",
+        "name": "manpage3",
+        "status": "down",
+        "timestamp": 1654036387.558536
+    },
+    {
+        "elapsed": 1.326,
+        "longname": "manpage3>4",
+        "name": "manpage4",
+        "status": "up",
+        "timestamp": 1654036387.5585628
+    },
+    {
+        "elapsed": 1.618,
+        "longname": "manpage4>5",
+        "name": "manpage5",
+        "status": "up",
+        "timestamp": 1654036387.5585878
+    },
+    {
+        "elapsed": 1.343,
         "longname": "manpage5 > 6",
         "name": "manpage6",
         "status": "up",
-        "timestamp": 1654035485.122874
+        "timestamp": 1654036387.5586452
     },
     {
         "elapsed": 0.001,
         "longname": "manpage6 > 7",
         "name": "manpage7",
         "status": "unknown",
-        "timestamp": 1654035485.122429
+        "timestamp": 1654036387.5583813
     }
 ]
