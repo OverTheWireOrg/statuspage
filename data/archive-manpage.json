@@ -2,6 +2,12 @@
     {
         "data": [
             {
+                "elapsed": 2.476,
+                "longname": "manpage0",
+                "status": "up",
+                "timestamp": 1659590285.7649276
+            },
+            {
                 "elapsed": 2.487,
                 "longname": "manpage0",
                 "status": "up",
@@ -594,18 +600,18 @@
                 "longname": "manpage0",
                 "status": "up",
                 "timestamp": 1659501191.9889426
-            },
-            {
-                "elapsed": 2.432,
-                "longname": "manpage0",
-                "status": "up",
-                "timestamp": 1659500286.4739614
             }
         ],
         "name": "manpage0"
     },
     {
         "data": [
+            {
+                "elapsed": 1.219,
+                "longname": "manpage0>1",
+                "status": "up",
+                "timestamp": 1659590285.7649605
+            },
             {
                 "elapsed": 1.288,
                 "longname": "manpage0>1",
@@ -1199,18 +1205,18 @@
                 "longname": "manpage0>1",
                 "status": "up",
                 "timestamp": 1659501191.989031
-            },
-            {
-                "elapsed": 1.269,
-                "longname": "manpage0>1",
-                "status": "up",
-                "timestamp": 1659500286.4739923
             }
         ],
         "name": "manpage1"
     },
     {
         "data": [
+            {
+                "elapsed": 1.453,
+                "longname": "manpage1>2",
+                "status": "up",
+                "timestamp": 1659590285.764999
+            },
             {
                 "elapsed": 1.487,
                 "longname": "manpage1>2",
@@ -1804,18 +1810,18 @@
                 "longname": "manpage1>2",
                 "status": "up",
                 "timestamp": 1659501191.9890618
-            },
-            {
-                "elapsed": 1.441,
-                "longname": "manpage1>2",
-                "status": "up",
-                "timestamp": 1659500286.4740202
             }
         ],
         "name": "manpage2"
     },
     {
         "data": [
+            {
+                "elapsed": 1.283,
+                "longname": "manpage2>3",
+                "status": "down",
+                "timestamp": 1659590285.7650547
+            },
             {
                 "elapsed": 1.595,
                 "longname": "manpage2>3",
@@ -2409,18 +2415,18 @@
                 "longname": "manpage2>3",
                 "status": "up",
                 "timestamp": 1659501191.9890883
-            },
-            {
-                "elapsed": 1.587,
-                "longname": "manpage2>3",
-                "status": "up",
-                "timestamp": 1659500286.4740472
             }
         ],
         "name": "manpage3"
     },
     {
         "data": [
+            {
+                "elapsed": 1.419,
+                "longname": "manpage3>4",
+                "status": "up",
+                "timestamp": 1659590285.7651029
+            },
             {
                 "elapsed": 1.361,
                 "longname": "manpage3>4",
@@ -3014,18 +3020,18 @@
                 "longname": "manpage3>4",
                 "status": "up",
                 "timestamp": 1659501191.9891138
-            },
-            {
-                "elapsed": 1.419,
-                "longname": "manpage3>4",
-                "status": "up",
-                "timestamp": 1659500286.474073
             }
         ],
         "name": "manpage4"
     },
     {
         "data": [
+            {
+                "elapsed": 1.515,
+                "longname": "manpage4>5",
+                "status": "up",
+                "timestamp": 1659590285.7651477
+            },
             {
                 "elapsed": 1.536,
                 "longname": "manpage4>5",
@@ -3619,18 +3625,18 @@
                 "longname": "manpage4>5",
                 "status": "up",
                 "timestamp": 1659501191.9891384
-            },
-            {
-                "elapsed": 1.567,
-                "longname": "manpage4>5",
-                "status": "up",
-                "timestamp": 1659500286.474098
             }
         ],
         "name": "manpage5"
     },
     {
         "data": [
+            {
+                "elapsed": 1.351,
+                "longname": "manpage5 > 6",
+                "status": "up",
+                "timestamp": 1659590285.7651932
+            },
             {
                 "elapsed": 1.346,
                 "longname": "manpage5 > 6",
@@ -4224,18 +4230,18 @@
                 "longname": "manpage5 > 6",
                 "status": "up",
                 "timestamp": 1659501191.9891648
-            },
-            {
-                "elapsed": 1.301,
-                "longname": "manpage5 > 6",
-                "status": "up",
-                "timestamp": 1659500286.4741228
             }
         ],
         "name": "manpage6"
     },
     {
         "data": [
+            {
+                "elapsed": 0.002,
+                "longname": "manpage6 > 7",
+                "status": "unknown",
+                "timestamp": 1659590285.7648416
+            },
             {
                 "elapsed": 0.002,
                 "longname": "manpage6 > 7",
@@ -4829,12 +4835,6 @@
                 "longname": "manpage6 > 7",
                 "status": "unknown",
                 "timestamp": 1659501191.9888704
-            },
-            {
-                "elapsed": 0.002,
-                "longname": "manpage6 > 7",
-                "status": "unknown",
-                "timestamp": 1659500286.473889
             }
         ],
         "name": "manpage7"
